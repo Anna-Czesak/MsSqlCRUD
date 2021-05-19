@@ -2,6 +2,6 @@
 projekt bazy danych
 
 Twórcy:
-Klaudia Balicka
-Anna Czesak
+Klaudia Balicka,
+Anna Czesak,
 Wioletta Drąg
